@@ -4,7 +4,7 @@ Kacque's Anime Recommender Personality Quiz
 Welcome to the world's greatest anime recommender quiz (if we do say so ourselves)...
 And we do! (On a scale of 1-10, it's over 9,000!)
 Simply answer these 15 questions, and our system will learn the deepest secrets of your heart!
-But don't worry. We won't tell anybody. ;p
+But don't worry. We won't tell anybody. 
 We'll just let you know your next anime obsession - believe it!
 So get ready, because here comes your first question...
 """
@@ -23,7 +23,7 @@ You’ve been isekai’d! The beast king’s sorcerer has summoned you to anothe
 2: You choose the sorcerer – duh! The king’s personal sorcerer, who was powerful enough to summon you here from another world…Who better to teach you this world’s magic? You’ll be a supreme spellcaster in no time! 
 ---(If selected: SincerityVsSatire +1 Satire, FantasyVsReality +1 Fantasy)
 
-3: It’s gotta be the creepy loner in the shadowy corner of the guild house. You don’t care what they say he’s done, or why everyone seems to be afraid of him. He’s obviously a misunderstood badass with a secretly soft heart, and once you’re done kicking some demon tail, you can be part of his redemption arc! \n
+3: It’s gotta be the creepy loner in the shadowy corner of the guild house. You don’t care what they say he’s done, or why everyone seems to be afraid of him. He’s obviously a misunderstood badass with a secretly soft heart, and once you’re done kicking some demon tail, you can be part of his redemption arc!
 ---(If selected: SurfaceVsDepth +1 Depth, OptimismVsPessimism +1 Pessimism, Sentimentality +1, Romance +1)
 
 4: You pick the pint-sized pig-person everybody’s laughing at. Comic relief mascot? Heck yes! Plus, you’re pretty sure he packs a secret punch. You just need some sufficient danger to unlock his hidden power. You begin plotting all the ways you’re going to torture, ahem, train him to unleash it – KuKuKu! 
