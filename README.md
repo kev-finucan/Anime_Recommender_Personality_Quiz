@@ -1,5 +1,5 @@
 # Kacque's Anime Recommender Personality Quiz
---
+
 """
 Welcome to the world's greatest anime recommender quiz (if we do say so ourselves)...  
 And we do! (On a scale of 1-10, it's over 9,000!)  
@@ -12,8 +12,8 @@ So get ready, because here comes your first question...
 This quiz infers characteristics of the user and builds a personality class with 9 different trait scales as the user answers situation-based, anime-trope questions. Each anime show is graded on the same scales, and each quiz question answer has impact scores that move the user's personality along the scales. Once the user completes the quiz, the application will compare their scores on each scale to the fixed scores of each anime show, and will generate an aggregate disparity score, which will be set as an "incompatibility score" property for the anime show. The application will then give the user some feedback about their personality and return the anime show(s) with the lowest incompatibility.
 
 
-## Sample quiz question and answers showing how each answer would impact the user's personality scales
---
+### Sample quiz question and answers showing how each answer would impact the user's personality scales
+
 Question #2:
 You’ve been isekai’d! The beast king’s sorcerer has summoned you to another world. He tells you that you are the chosen hero who must defeat a demon lord threatening to destroy the kingdom. You can choose one ally from the adventurer’s guild to join your party for the quest. Who do you choose?
 
